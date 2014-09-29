@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" PreferredExecutionTarget="Android.A" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tab\ListAdapter.cs">
+    <Files>
+      <File FileName="Tab\MainActivity.cs" Line="5" Column="5" />
+      <File FileName="Tab\AllPeopleFragement.cs" Line="89" Column="89" />
+      <File FileName="Tab\ListAdapter.cs" Line="8" Column="8" />
+      <File FileName="Tab\FavoriteFragement.cs" Line="53" Column="53" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Demo MonoForAntroid.PreferredDevice="Nexus 4" />
+</Properties>
